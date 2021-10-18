@@ -25,13 +25,13 @@ button{
 .container{
     margin: 20px auto;
     display: grid;
-    max-width: 320px;
+    max-width: 300px;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 100px 100px 100px;
 }
 .container div{
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 3px solid black;
+    border-bottom: 3px solid black;
     cursor: pointer;
     display: flex;
     justify-content: center;
